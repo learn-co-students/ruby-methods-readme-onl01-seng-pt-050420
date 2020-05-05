@@ -11,3 +11,13 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+
+def greeting
+  puts Hello World
+end
+
+def greetingTwo
+  puts 10.times 
+  "Hello World!"
+end
+
